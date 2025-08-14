@@ -26,9 +26,6 @@ vahan_web_scrapper/
 │       ├── file_utils.py        # File management
 │       ├── data_utils.py        # Data utilities
 │       └── logging_utils.py     # Logging configuration
-├── data/                        # Data storage
-├── output/                      # Processed outputs  
-├── logs/                        # Application logs
 ├── main.py                      # CLI entry point
 ├── dashboard_new.py             # Modular Streamlit dashboard
 └── README.md                    # This file
